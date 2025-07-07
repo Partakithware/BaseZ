@@ -1,5 +1,8 @@
 # BaseZ
-Base64z, Base74z, Base92z, for files. (Coded for fun, better methods/other similars likely out there)
+BaseZ64, BaseZ74, and BaseZ92
+A set of raw C utilities for encoding and decoding binary files using custom base-encoding schemes (64, 74, 92-character sets).
+
+Each tool is written in pure C (no dependencies beyond the C standard library) and exposes a simple CLI via main().
 
 Build:
 
