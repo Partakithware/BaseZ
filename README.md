@@ -11,7 +11,7 @@ gcc -o base92z base92z.c
 
 Use:
 
-Encode--
+Encode-- file/output-name
 
 ./base64z encode file.zip encoded64.txt
 
@@ -19,7 +19,7 @@ Encode--
 
 ./base92z encode file.zip encoded92.txt
 
-Decode--
+Decode-- encoded-file/output-name
 
 ./base64z decode encoded64.txt file64.zip
 
