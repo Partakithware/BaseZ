@@ -11,12 +11,15 @@ gcc -o base92z base92z.c
 
 Use:
 
+Encode--
+
 ./base64z encode file.zip encoded64.txt
 
 ./base74z encode file.zip encoded74.txt
 
 ./base92z encode file.zip encoded92.txt
 
+Decode--
 
 ./base64z decode encoded64.txt file64.zip
 
