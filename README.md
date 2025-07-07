@@ -4,7 +4,7 @@ A set of raw C utilities for encoding and decoding binary files using custom bas
 
 Each tool is written in pure C (no dependencies beyond the C standard library) and exposes a simple CLI via main().
 
-![Downloads](https://img.shields.io/github/downloads/Partakithware/BaseZ/releases/tag/1.0/BazeZ-64-74-92.zip/total?label=Download%20Count)
+![Downloads](https://img.shields.io/github/downloads/Partakithware/BaseZ/releases/tag/1.0/total?label=Download%20Count)
 
 Build:
 
